@@ -1,12 +1,12 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **HTML,CSS,JS,C & C++**
+- 🔭 I’m currently working on **MERN Dev & Python**
 
-- 🌱 I’m currently learning **Web Development & DSA**
+- 🌱 I’m currently learning **Data Structures & Algorithms**
 
-- 🤝 I’m looking for help with **Web Development**
+- 🤝 I’m looking for help with **Competitive Programming**
 
-- 💬 Ask me about **Literature**
+- 💬 Ask me about **Basic Front-End Dev**
 
 - 📫 How to reach me **asmianand@ikshana.tech**
 
